@@ -1,2 +1,2 @@
-# https://aliaksandr-afk.github.io/rsschool-cv
+# https://aliaksandr-afk.github.io/portfolio
 This is my portfolio
